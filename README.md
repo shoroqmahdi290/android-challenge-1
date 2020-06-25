@@ -1,4 +1,4 @@
-<div dir = "rtl">
+<div text-align = "center">
   
 # Android-Challenge-1
 
